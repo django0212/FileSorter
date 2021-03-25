@@ -3,6 +3,5 @@ FileSorter is a program that sorts files based on their extensions. For example,
 # Requirements
 <ul>
   <li><a href="https://python.org">Python</a></li>
-  <br>
   <li><a href="https://pypi.org/project/PyQt5/">PyQt5</a></li>
  </ul>
